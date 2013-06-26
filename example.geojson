@@ -1,10 +1,28 @@
-{"type": "FeatureCollection","features": [
-    {"type": "Feature", "properties": {"prop1": "val1", "prop2": "val2"}, "geometry": {"type": "Point", "coordinates": [9.0, 44.0]}},
-    {"type": "Feature", "properties": {"prop1": "val1", "prop2": "val2"}, "geometry": {"type": "Point", "coordinates": [9.0, 44.5]}},
-    {"type": "Feature", "properties": {"prop1": "val1", "prop2": "val2"}, "geometry": {"type": "Point", "coordinates": [9.0, 45.0]}},
-    {"type": "Feature", "properties": {"prop1": "val1", "prop2": "val2"}, "geometry": {"type": "Point", "coordinates": [9.0, 45.5]}},
-    {"type": "Feature", "properties": {"prop1": "val1", "prop2": "val2"}, "geometry": {"type": "Point", "coordinates": [9.0, 46.0]}},
-    {"type": "Feature", "properties": {"prop1": "val1", "prop2": "val2"}, "geometry": {"type": "Point", "coordinates": [10.0, 45.0]}},
-    {"type": "Feature", "properties": {"prop1": "val1", "prop2": "val2"}, "geometry": {"type": "Point", "coordinates": [10.5, 45.0]}},
-    {"type": "Feature", "properties": {"prop1": "val1", "prop2": "val2"}, "geometry": {"type": "Point", "coordinates": [11.0, 45.0]}}
-]}
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "ESSID": "Example6", "BSSID": "00:00:00:11:22:33", "Rating": 0, "Notes": "" }, "geometry": { "type": "Point", "coordinates": [ 9.584321497518594, 44.643481736120286 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "ESSID": "Example1", "BSSID": "00:00:00:11:22:34", "Rating": 0, "Notes": "" }, "geometry": { "type": "Point", "coordinates": [ 9.0, 44.5 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "ESSID": "Example2", "BSSID": "00:00:00:11:22:35", "Rating": 0, "Notes": "" }, "geometry": { "type": "Point", "coordinates": [ 9.0, 45.0 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "ESSID": "Example3", "BSSID": "00:00:00:11:23:51", "Rating": 0, "Notes": "" }, "geometry": { "type": "Point", "coordinates": [ 9.0, 45.5 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "ESSID": "Example4", "BSSID": "00:00:00:32:52:35", "Rating": 0, "Notes": "" }, "geometry": { "type": "Point", "coordinates": [ 9.0, 46.0 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "ESSID": "MyNetwork", "BSSID": "00:00:00:92:74:96", "Rating": 0, "Notes": "" }, "geometry": { "type": "Point", "coordinates": [ 10.0, 45.0 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "ESSID": "MyNetwork", "BSSID": "00:00:00:98:82:54", "Rating": 0, "Notes": "" }, "geometry": { "type": "Point", "coordinates": [ 10.5, 45.0 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "ESSID": "OpenWifi", "BSSID": "00:00:00:90:24:15", "Rating": 0, "Notes": "" }, "geometry": { "type": "Point", "coordinates": [ 11.0, 45.0 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "ESSID": "OpenWifi", "BSSID": "00:00:00:58:85:66", "Rating": 5, "Notes": "T" }, "geometry": { "type": "Point", "coordinates": [ 9.150925942012316, 45.840293394374235 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "ESSID": "Example7", "BSSID": "00:00:00:54:08:75", "Rating": 0, "Notes": "E" }, "geometry": { "type": "Point", "coordinates": [ 9.095966781553305, 45.821855493102383 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "ESSID": "Another AP", "BSSID": "00:00:00:46:64:35", "Rating": 0, "Notes": "" }, "geometry": { "type": "Point", "coordinates": [ 9.138036497214113, 45.814743856999904 ] } }
+
+]
+}
