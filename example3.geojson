@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","features":[{"geometry":{"type":"Point","coordinates":[9.84375,47.98992166741417]},"properties":{"hello":"WORLD","notes":"Example here..."},"type":"Feature"}]}
+{"type":"FeatureCollection","features":[{"geometry":{"type":"Point","coordinates":[9.84375,47.98992166741417]},"properties":{"hello":"WORLD","notes":"Example here...","code":123},"type":"Feature"}]}
