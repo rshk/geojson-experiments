@@ -1,0 +1,79 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    9.84375, 
+                    47.98992166741417
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "code": 123, 
+                "hello": "WORLD", 
+                "notes": "Example here..."
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.841845631599426, 
+                    47.99041711228629
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "empty": false
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        9.841920733451843, 
+                        47.990420702449164
+                    ], 
+                    [
+                        9.84226405620575, 
+                        47.99025196452409
+                    ], 
+                    [
+                        9.842805862426758, 
+                        47.990068865300366
+                    ], 
+                    [
+                        9.843669533729553, 
+                        47.98992525761152
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "properties": {}, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        9.842392802238464, 
+                        47.990212472589604
+                    ], 
+                    [
+                        9.84374463558197, 
+                        47.99128592441866
+                    ], 
+                    [
+                        9.845675826072693, 
+                        47.9914151679489
+                    ]
+                ], 
+                "type": "LineString"
+            }, 
+            "properties": {}, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
